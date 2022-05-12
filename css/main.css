@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding:  0px;
+}
+
+
+.a{
+ font-weight: 700;
+
+}
+.b{
+    height:400px;
+}
+.image{
+ margin-top: -9px;
+background-size: cover;
+background-position: center;
+width: 100%;
+
+
+
+}
+.d{
+
+
+    margin-top: -40px;
+}
+.e{
+    
+    font-family: 'Crimson Text', serif;
+}
+.f{
+    margin-top: 10px;
+
+}
+
